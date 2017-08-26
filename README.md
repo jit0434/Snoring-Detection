@@ -1,5 +1,10 @@
 # Snoring-Detection android application
 
+Save-Contact https://github.com/jit0434/Save-Contact
+Activity-Recogination  https://github.com/jit0434/Activity-Recognition
+Snoring-Detection https://github.com/jit0434/Snoring-Detection
+
+
 ## Screenshot
 
 ![screenshot_20170828-044800](https://user-images.githubusercontent.com/26283082/29862648-bd0e9836-8d8a-11e7-965e-13efbd533c00.jpg)
