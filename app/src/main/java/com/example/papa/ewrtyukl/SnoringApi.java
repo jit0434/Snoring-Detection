@@ -1,10 +1,5 @@
 package com.example.papa.ewrtyukl;
 
-/**
- * Created by PAPA on 8/27/2017.
- */
-
-
 //import com.musicg.*;
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -55,6 +55,7 @@ public class AlarmReceiverActivity extends Activity {
             handler.removeCallbacks(updateTimer);
             handler.postDelayed(updateTimer, 1000);
         }
+        Log.d("Alarm Sury","akfje");
     }
 
     private Runnable updateTimer = new Runnable() {
