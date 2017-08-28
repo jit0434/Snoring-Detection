@@ -1,5 +1,8 @@
 # Snoring-Detection android application
 
+Android appliction for detection of snoring.
+It records sound from phone microphone alarm when snoring is detected.
+
 Save-Contact https://github.com/jit0434/Save-Contact
 Activity-Recogination  https://github.com/jit0434/Activity-Recognition
 Snoring-Detection https://github.com/jit0434/Snoring-Detection
@@ -17,3 +20,8 @@ Snoring-Detection https://github.com/jit0434/Snoring-Detection
 
 
 ![screenshot_20170828-044759](https://user-images.githubusercontent.com/26283082/29862649-bd0fc954-8d8a-11e7-9475-e8cb96334b10.jpg)
+
+
+## Reference :
+
+https://github.com/soleo/android-sleep-tracker
